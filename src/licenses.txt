@@ -1,0 +1,4 @@
+Pluses (
+  ./img/board-column-add.svg
+  ./img/board-column-add-hover.svg
+) in SVG format: https://www.svgrepo.com/svg/475304/plus
