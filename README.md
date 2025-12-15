@@ -1,8 +1,8 @@
 # Домашнее задание к занятию «Работа с файлами, DnD»
 
 [![Build status](https://ci.appveyor.com/api/projects/status/au9vn3eik2rmr6kg?svg=true)](https://ci.appveyor.com/project/LexusIgnatenko/ahj-6-trello)
-
 ![CI](https://github.com/LexusIgnatenko/ahj-6-trello/actions/workflows/web.yml/badge.svg)
+[GitHub Pages](https://LexusIgnatenko.github.io/ahj-6-trello/)
 
 Правила сдачи задания:
 
